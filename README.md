@@ -1,1 +1,1 @@
-# healtcare_app_nextjs
+# Health Care Application [NextJS]
